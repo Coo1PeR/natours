@@ -5,7 +5,6 @@
 /tmp
 /out-tsc
 /bazel-out
-../../2-how-node-works/how-node-works/test-file.txt
 
 # Node
 /node_modules
