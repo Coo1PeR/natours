@@ -1,6 +1,7 @@
 const express = require('express');
 const morgan = require('morgan');
 
+// Import modules
 const tourRouter = require('./routes/tourRoutes');
 const userRouter = require('./routes/userRoutes');
 
